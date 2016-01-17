@@ -1,0 +1,29 @@
+{
+  "name": "tomato_keeper",
+  "version": "1.0.0",
+  "description": "stuff about tomatoes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "de olagundoye",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongodb": "^2.1.4",
+    "node-mongo-seeds": "^2.2.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-olagundoye/tomato_keeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/de-olagundoye/tomato_keeper/issues"
+  },
+  "homepage": "https://github.com/de-olagundoye/tomato_keeper#readme"
+}
